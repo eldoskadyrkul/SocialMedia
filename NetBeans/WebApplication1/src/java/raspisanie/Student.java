@@ -15,7 +15,7 @@ public class Student {
    }
    
     public static void main(String[] args) {
-        
+        ConnectionStudents();
     }
     
     static void ConnectionStudents() {
